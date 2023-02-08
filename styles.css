@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://www.hollyhunt.com/sites/default/files/styles/2400_w/public/dam/files/350-08_AquaVelvetIII_ForestGreen_WM_2.jpg?itok=Ls-f0t_d");
+    background-size: cover;
+}
+
+img {
+    height: 250px;
+}
+
+h1 {
+    font-family: "Brush Script MT", serif;
+    font-weight: 900;
+}
